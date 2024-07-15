@@ -2,6 +2,8 @@
 
 A JSON file that contains the regions, provinces, cities/municipalities, and barangays in the Philippines.
 
+_a modified version of [regions.js](https://github.com/josephmangmang/philippines_rpcmb/blob/main/assets/regions.json) in [josephmangmang/philippines_rpcmb](https://github.com/josephmangmang/philippines_rpcmb)_
+
 ### Hierarchy and Structure
 
 1. **File**: `philippines.json`
